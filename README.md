@@ -42,4 +42,4 @@ src="https://img.shields.io/github/followers/Fikayomi31?logo=github&style=for-th
 ![](https://github-profile-trophy.vercel.app/?username=Mcsavvy&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mcsavvy&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Fikayomi31&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
